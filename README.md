@@ -1,41 +1,16 @@
 
 # Task Management App
 
-A task management application designed to help users create, organize, update, and track their tasks efficiently through a simple and intuitive interface.
+A simple task management application designed to help users create, organize, update, and track their daily tasks efficiently.
 
 ## Features
 
-- Create and manage tasks
-- Update task details
+- Create new tasks
+- Edit existing tasks
 - Delete tasks
 - Mark tasks as completed
-- Organize and track tasks
-- Responsive user interface
-
-## Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Jibran-shah/task-management-app.git
-cd task-management-app
-```
-
-### 2. Install Dependencies
-
-```bash
-npm install
-```
-
-### 3. Configure Environment Variables
-
-Create a `.env` file if required and configure the necessary environment variables.
-
-### 4. Run the Application
-
-```bash
-npm run dev
-```
+- Organize and manage daily tasks
+- Track task completion
 
 ## License & Copyright
 
